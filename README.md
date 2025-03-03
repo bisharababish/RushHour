@@ -1,7 +1,8 @@
 ### TheDungeons
 #### A 2D fast-paced platformer where speed, skill, and strategy combine in a race against time.
-#### Game Overview
-#### TheDungeons is a high-octane 2D platformer developed in Unity with C#. Players select a character class and starting weapon before diving into challenging levels where they must reach the end as quickly as possible while defeating enemies along the way. The game #### features an XP-based progression system that rewards fast-paced combat and skilled gameplay.
+
+### Game Overview:
+#### TheDungeons is a high-octane 2D platformer developed in Unity with C#. Players select a character class and starting weapon before diving into challenging levels where they must reach the end as quickly as possible while defeating enemies along the way. The game features an XP-based progression system that rewards fast-paced combat and skilled gameplay.
 
 ### Key Features:
 
