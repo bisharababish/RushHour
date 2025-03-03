@@ -1,8 +1,48 @@
-# RushHour
-Saliba and Bishara
+### TheDungeons
+#### A 2D fast-paced platformer where speed, skill, and strategy combine in a race against time.
+#### Game Overview
+#### TheDungeons is a high-octane 2D platformer developed in Unity with C#. Players select a character class and starting weapon before diving into challenging levels where they must reach the end as quickly as possible while defeating enemies along the way. The game #### features an XP-based progression system that rewards fast-paced combat and skilled gameplay.
 
-Mar 3, 2022 :
+### Key Features:
 
-Overview :
+#### Multiple Character Classes: Choose from knights, wizards, ninjas, and more
+#### Weapon Variety: Select and upgrade different weapons throughout your journey
+#### Time-Based Combat System: Defeat enemies quickly for higher XP rewards
+#### Enemy Difficulty Scaling: Stronger enemies provide greater XP rewards
+#### Progression System: Upgrade your character and weapons between levels
+#### Fast-Paced Platforming: Navigate challenging obstacles at speed
 
-It’s a 2D fast-paced platformer where you have to reach the end as fast as possible. You gain xp points from defeating enemies, the faster you defeat them the higher the xp you’ll get, also stronger enemies give higher xp points. At the start of the game you have to pick a class you want your character to be for example: knight, wizard, ninja, etc…, and, and pick your starting weapon. After you finish each level you can upgrade or change your weapon using the xp points, and you can upgrade your character with them. Goals.
+### Gameplay Loop:
+
+#### Select your character class and starting weapon
+#### Race through levels defeating enemies as quickly as possible
+#### Collect XP based on combat speed and enemy difficulty
+#### Upgrade your character and weapons between levels
+#### Take on increasingly difficult challenges
+
+### Character Classes:
+
+#### Knight: Balanced fighter with solid defense
+#### Wizard: Ranged attacker with powerful spells
+#### Ninja: Fast movement with quick attacks
+#### And more to discover...
+
+
+### Built with:
+#### Unity Engine
+#### C# Programming
+#### Custom 2D physics and combat mechanics
+
+### Installation:
+
+#### Clone this repository
+#### Open the project in Unity
+#### Build and run the game
+
+### Roadmap:
+
+#### Additional character classes
+#### New weapon types
+#### More challenging levels
+#### Leaderboard system
+#### Time trial mode
